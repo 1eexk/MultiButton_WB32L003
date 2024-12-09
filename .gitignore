@@ -1,0 +1,6 @@
+*.project
+*.rocki
+Objects/*
+Listings/*
+*.txt
+clean.bat
